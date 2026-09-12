@@ -386,6 +386,8 @@ Based on the combined average score used in this experiment, DistilBART achieves
 
 The project includes a **Streamlit-based web application** that allows users to upload research papers in PDF format and generate summaries using both **DistilBART** and **T5**.
 
+![Streamlit Application](results/dashboard.png)
+
 The application is designed to provide an easy way to compare the generated summaries and assess their factual consistency.
 
 ### Application Workflow
