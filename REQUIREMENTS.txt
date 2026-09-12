@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+transformers==4.57.3
+torch
+rouge-score
+bert-score
+pandas
+matplotlib
+sentencepiece
