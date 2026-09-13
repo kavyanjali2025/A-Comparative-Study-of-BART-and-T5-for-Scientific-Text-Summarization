@@ -364,11 +364,15 @@ results/factuality_summary.csv
 
 ![Factuality Rate Comparison](results/factuality_rates.png)
 
-### Figure 6 — Automatic Factuality Analysis Results
+### Figure 7 — Generated Summaries and Model Comparison
 
-![Automatic Factuality Analysis Results](results/2.png)
+![Generated Summaries and Model Comparison](results/1.png)
 
-### Figure 7 — T5 Claim Analysis and Model Comparison
+### Figure 8 — Automatic Factuality Analysis and Claim Analysis
+
+![Automatic Factuality Analysis and Claim Analysis](results/2.png)
+
+### Figure 9 — T5 Claim Analysis and Model Comparison
 
 ![T5 Claim Analysis and Model Comparison](results/3.png)
 
