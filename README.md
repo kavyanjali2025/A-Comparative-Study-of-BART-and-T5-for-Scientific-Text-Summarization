@@ -364,6 +364,14 @@ results/factuality_summary.csv
 
 ![Factuality Rate Comparison](results/factuality_rates.png)
 
+### Figure 6 — Automatic Factuality Analysis Results
+
+![Automatic Factuality Analysis Results](results/2.png)
+
+### Figure 7 — T5 Claim Analysis and Model Comparison
+
+![T5 Claim Analysis and Model Comparison](results/3.png)
+
 ### Overall Results
 
 The automatic evaluation produced the following average scores:
